@@ -12,5 +12,23 @@
         <!-- Status bar color. -->
         <item name="android:statusBarColor">#740000</item>
         <!-- Customize your theme here. -->
+
+
     </style>
+
+
+    <!--    custom actionbar-->
+    <style name="CustomActionBar" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!--        status bar color-->
+        <item name="colorPrimary">@color/white</item>
+        <!--        action bar color-->
+        <item name="colorPrimaryDark">@color/white</item>
+        <!--        textView cursor, progress bar etc color-->
+        <item name="colorAccent">@color/bluish</item>
+
+        <item name="colorControlNormal">@color/white</item>
+
+    </style>
+
+
 </resources>
