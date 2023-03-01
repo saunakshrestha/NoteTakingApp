@@ -35,4 +35,5 @@
     <string name="NoteTakingApp">Note Taking App</string>
     <string name="Note_has_been_deleted">Note has been deleted</string>
     <string name="Note_added_successfully">Note added successfully</string>
+    <string name="save">save</string>
 </resources>
