@@ -10,10 +10,6 @@ NoteYard is a simple note taking app for Android, written in Java. The app allow
 
 <img src="https://i.ibb.co/MchYN0n/ezgif-com-gif-maker.gif" alt="project-screenshot" width="300" height="650/">
 <img src="https://i.ibb.co/6tjvjBn/Splash.png" alt="project-screenshot" width="300" height="650/">
-<img src="https://i.ibb.co/FnpfNTC/SignUp.png" alt="project-screenshot" width="300" height="650/">
-<img src="https://i.ibb.co/jzXY6BY/Screenshot-1677774399.png" alt="project-screenshot" width="300" height="650/">
-<img src="https://i.ibb.co/B2KNPph/Screenshot-1677774188.png" alt="project-screenshot" width="300" height="650/">
-<img src="https://i.ibb.co/rp7XfjL/Screenshot-1677774241.png" alt="project-screenshot" width="300" height="650/">
 
 ## Technologies Used
 
